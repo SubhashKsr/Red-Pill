@@ -1,2 +1,2 @@
 # Red-Pill
-Simple ToDo App.
+This is a Simple App
